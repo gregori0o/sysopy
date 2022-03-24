@@ -1,0 +1,61 @@
+Test działania zadanie 2
+Flaga SA_SIGINFO
+Obsługa trzech sygnałów: 2x SIGUSR1 oraz SIGCHLD pochodzącego z kończącego się procesu potomnego poprzez wywołanie funkcji exit(18)
+Oczekujemy poszerzoną informacje na temat sygnału
+Flaga SA_SIGINFO
+Obsługa trzech sygnałów: 2x SIGUSR1 oraz SIGCHLD pochodzącego z kończącego się procesu potomnego poprzez wywołanie funkcji exit(18)
+Oczekujemy poszerzoną informacje na temat sygnału
+Obsługa sygnału 17
+Informacje, które uzyskujemy dzięki fladze SA_SIGINFO
+Sygnał pochodzi z procesu 25766
+Status zakończenia procesu, który wysłał sygnał 18 - ważne dla sygnału SGCHLD
+Obsługa sygnału 10
+Informacje, które uzyskujemy dzięki fladze SA_SIGINFO
+Sygnał pochodzi z procesu 25765
+Status zakończenia procesu, który wysłał sygnał 0 - ważne dla sygnału SGCHLD
+Obsługa sygnału 10
+Informacje, które uzyskujemy dzięki fladze SA_SIGINFO
+Sygnał pochodzi z procesu 25765
+Status zakończenia procesu, który wysłał sygnał 0 - ważne dla sygnału SGCHLD
+Flaga SA_NODEFER
+Usuwam z maski sygnały SIGUSR1 oraz SIGUSR2
+Dla obydwu tych sygnałów ustawiam handler, który wywołuje ten sam sygnał, usypia się na 5 sekund i wypisuje komunikat
+Aby nie wejść w nieskończoną pętlę zabezpieczę się zmiennymi globalnymi
+Oczekujemu dla sygnału SIGUSR1 bez flagi SA_NODEFER że obsługa sygnału wykona się do końca i dopiero wtedy kolejny sygnał
+Dla sygnału SIGUSR2 z ustawioną flagą wraz z pojawieniem się nowego sygnału od razu wywoła się następny handler
+Obsługa sygnału 10
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Koniec obsługi sygnału
+Obsługa sygnału 10
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Koniec obsługi sygnału
+Obsługa sygnału 10
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Koniec wywoływań w pętli
+Koniec obsługi sygnału
+Obsługa sygnału 12
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Obsługa sygnału 12
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Obsługa sygnału 12
+Wysyłam sygnał do siebie i po uśpieniu na 5 sekund wypisuje komunikat
+Koniec wywoływań w pętli
+Koniec obsługi sygnału
+Koniec obsługi sygnału
+Koniec obsługi sygnału
+Obsługa bez flag, handler rozszerzony dla sygnału SIGCHLD i zwykły dla SIGUSR1
+Obsługa trzech sygnałów: 2x SIGUSR1 oraz SIGCHLD pochodzącego z kończącego się procesu potomnego poprzez wywołanie funkcji exit(18)
+Dane ze struktury siginfo_t będą przypadkowe, obsługa błędów podstawowa
+Obsługa bez flag, handler rozszerzony dla sygnału SIGCHLD i zwykły dla SIGUSR1
+Obsługa trzech sygnałów: 2x SIGUSR1 oraz SIGCHLD pochodzącego z kończącego się procesu potomnego poprzez wywołanie funkcji exit(18)
+Dane ze struktury siginfo_t będą przypadkowe, obsługa błędów podstawowa
+Obsługa sygnału 17
+Informacje, które uzyskujemy dzięki fladze SA_SIGINFO
+Sygnał pochodzi z procesu -1669478240
+Status zakończenia procesu, który wysłał sygnał -1669283449 - ważne dla sygnału SGCHLD
+Obsługa sygnału 10
+Obsługa sygnału 10
+Flaga SA_RESETHAND
+Obsługa trzech sygnałów: 2x SIGUSR1 oraz SIGCHLD pochodzącego z kończącego się procesu potomnego poprzez wywołanie funkcji exit(18)
+Proces obsłuży tylko jeden sygnał SIGCHLD i jeden SIGUSR1, drugi SIGUSR1 zakończy proces
+User defined signal 1

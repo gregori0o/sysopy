@@ -1,0 +1,3 @@
+Program działa prawidłowo, niezależnie od tego w jaki sposób tworzony jest proces, czy w terminalu czy w pliku i procesy producentów i konsumentów jako potomne.
+Dla jednego konsumenta i wielu producentów program działa prawidłowo dla każdej z wartości n. Gdy przekroczymy wartość PIPE_BUF (n = 8500) nie zarejestrowałem błędów, mogło to być spowodowane użyciem tylko 4 producentów.
+Gdy było wielu konsumentów program przestawał działać prawidłowo, można było zauważyć, że konsumenci czytali naraz a nie porcjami, więc błędnie odczytywali numer lini w której powinni zapisać tekst. Powodowało to tworzenie lini o bardzo dużych numerach dla dużych n.

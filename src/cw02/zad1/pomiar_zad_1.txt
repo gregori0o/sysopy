@@ -1,0 +1,19 @@
+Raport zadania 1
+Pomiar dla krótkich plików (ok. 100 lini)
+Czas wykonania zadania 1 za pomocą funkcji bibliotecznych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czas wykonania zadania 1 za pomocą funkcji systemowych
+Czas rzeczywisty: 2
+Czas użytkownika: 0
+Czas systemowy:   1
+Pomiar dla długich plików (ok. 100 000 lini)
+Czas wykonania zadania 1 za pomocą funkcji bibliotecznych
+Czas rzeczywisty: 223
+Czas użytkownika: 11
+Czas systemowy:   48
+Czas wykonania zadania 1 za pomocą funkcji systemowych
+Czas rzeczywisty: 1556
+Czas użytkownika: 667
+Czas systemowy:   887

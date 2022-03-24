@@ -1,0 +1,1205 @@
+Raport zadania 3b
+Poziom kompilacji O0
+Static library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 19
+Czas użytkownika: 8
+Czas systemowy:   11
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 23
+Czas użytkownika: 12
+Czas systemowy:   10
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 3
+Czas użytkownika: 3
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 38
+Czas użytkownika: 12
+Czas systemowy:   25
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 46
+Czas użytkownika: 29
+Czas systemowy:   17
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 9
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 2
+Czas użytkownika: 1
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 104
+Czas użytkownika: 43
+Czas systemowy:   60
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 124
+Czas użytkownika: 75
+Czas systemowy:   49
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 22
+Czas użytkownika: 22
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Shared library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 19
+Czas użytkownika: 11
+Czas systemowy:   7
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 24
+Czas użytkownika: 13
+Czas systemowy:   10
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 3
+Czas użytkownika: 3
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 37
+Czas użytkownika: 14
+Czas systemowy:   23
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 46
+Czas użytkownika: 28
+Czas systemowy:   18
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 8
+Czas systemowy:   1
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 1
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 103
+Czas użytkownika: 44
+Czas systemowy:   58
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 127
+Czas użytkownika: 75
+Czas systemowy:   50
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 22
+Czas użytkownika: 22
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Dynamic library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 22
+Czas użytkownika: 9
+Czas systemowy:   11
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 30
+Czas użytkownika: 20
+Czas systemowy:   10
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 4
+Czas użytkownika: 4
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 54
+Czas użytkownika: 20
+Czas systemowy:   34
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 66
+Czas użytkownika: 41
+Czas systemowy:   25
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 9
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 2
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 2
+Czas użytkownika: 2
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 148
+Czas użytkownika: 71
+Czas systemowy:   75
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 170
+Czas użytkownika: 108
+Czas systemowy:   62
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 22
+Czas użytkownika: 23
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   1
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Poziom kompilacji O2
+Static library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 28
+Czas użytkownika: 11
+Czas systemowy:   16
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 37
+Czas użytkownika: 24
+Czas systemowy:   13
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 5
+Czas użytkownika: 5
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 1
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 64
+Czas użytkownika: 28
+Czas systemowy:   34
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 69
+Czas użytkownika: 44
+Czas systemowy:   26
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 10
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 2
+Czas użytkownika: 1
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   1
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 147
+Czas użytkownika: 67
+Czas systemowy:   79
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 165
+Czas użytkownika: 98
+Czas systemowy:   67
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 23
+Czas użytkownika: 23
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Shared library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 26
+Czas użytkownika: 11
+Czas systemowy:   14
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 34
+Czas użytkownika: 18
+Czas systemowy:   15
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 4
+Czas użytkownika: 4
+Czas systemowy:   1
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 52
+Czas użytkownika: 22
+Czas systemowy:   30
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 65
+Czas użytkownika: 38
+Czas systemowy:   26
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 9
+Czas systemowy:   1
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 2
+Czas użytkownika: 1
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 1
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 146
+Czas użytkownika: 66
+Czas systemowy:   79
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 168
+Czas użytkownika: 111
+Czas systemowy:   57
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 23
+Czas użytkownika: 23
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Dynamic library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 26
+Czas użytkownika: 8
+Czas systemowy:   17
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 31
+Czas użytkownika: 21
+Czas systemowy:   10
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 5
+Czas użytkownika: 4
+Czas systemowy:   1
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 54
+Czas użytkownika: 18
+Czas systemowy:   35
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 65
+Czas użytkownika: 40
+Czas systemowy:   26
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 11
+Czas użytkownika: 10
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 1
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 148
+Czas użytkownika: 70
+Czas systemowy:   77
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 171
+Czas użytkownika: 105
+Czas systemowy:   65
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 23
+Czas użytkownika: 24
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   1
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Poziom kompilacji O3
+Static library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 26
+Czas użytkownika: 10
+Czas systemowy:   14
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 34
+Czas użytkownika: 22
+Czas systemowy:   11
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 4
+Czas użytkownika: 4
+Czas systemowy:   1
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 57
+Czas użytkownika: 20
+Czas systemowy:   37
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 65
+Czas użytkownika: 42
+Czas systemowy:   21
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 10
+Czas systemowy:   1
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 2
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 1
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 144
+Czas użytkownika: 66
+Czas systemowy:   77
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 170
+Czas użytkownika: 106
+Czas systemowy:   64
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 23
+Czas użytkownika: 23
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   1
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Shared library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 25
+Czas użytkownika: 10
+Czas systemowy:   14
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 32
+Czas użytkownika: 19
+Czas systemowy:   12
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 4
+Czas użytkownika: 4
+Czas systemowy:   1
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 57
+Czas użytkownika: 24
+Czas systemowy:   30
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 66
+Czas użytkownika: 36
+Czas systemowy:   28
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 10
+Czas użytkownika: 9
+Czas systemowy:   1
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   1
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 2
+Czas użytkownika: 1
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 148
+Czas użytkownika: 64
+Czas systemowy:   84
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 170
+Czas użytkownika: 102
+Czas systemowy:   67
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 22
+Czas użytkownika: 22
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Dynamic library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 25
+Czas użytkownika: 11
+Czas systemowy:   13
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 32
+Czas użytkownika: 16
+Czas systemowy:   15
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 4
+Czas użytkownika: 4
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 54
+Czas użytkownika: 19
+Czas systemowy:   34
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 64
+Czas użytkownika: 40
+Czas systemowy:   24
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 11
+Czas użytkownika: 10
+Czas systemowy:   1
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 2
+Czas użytkownika: 0
+Czas systemowy:   0
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 1
+Czas systemowy:   1
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 1
+Czas systemowy:   0
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 143
+Czas użytkownika: 59
+Czas systemowy:   84
+Zapis wyniku zmergowania do bloków pamięci
+Czas rzeczywisty: 168
+Czas użytkownika: 107
+Czas systemowy:   61
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 23
+Czas użytkownika: 22
+Czas systemowy:   0
+Testy dodawania i usuwania bloków nad 9 parami średniej długości tekstu wykonane najpierw 5 prób, następnie 10 i na koniec 20
+Zmergowanie plików do plików tymczasowych
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Kilkukrotne zapisanie i usunięcie bloków pamięci
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Czyszczenie tablicy z wszystkich bloków
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+
+
+Komentarz do zadania:
+Nie zauważyłem znacznych zmian czasu w zależności od używanej optymalizacji. Jedynie obserwuje drobne przyspieszenie działania wraz z poprawą optymalizacji. Złożoność programu i wielkość danych powoduje, że czas działania jest niewielki stąd trudno jest obserwować zmiany w wyniku poprawy optymalizacji.

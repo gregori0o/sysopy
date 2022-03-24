@@ -1,0 +1,33 @@
+Test działania zadanie 3a
+Test dla polecenia KILL
+100 sygnałów
+26549
+Catcher odebrał 11 sygnałów
+Sender otrzymał 1 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+26555
+Catcher odebrał 395 sygnałów
+Sender otrzymał 153 sygnałów a powinien otrzymać ich 1000
+Test dla polecenia SIGQUEUE
+100 sygnałów
+26563
+Catcher odebrał 74 sygnałów
+Sender prawidłowo wysłał 74 sygnałów i otrzymał informację o 74
+Sender otrzymał 72 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+26569
+Catcher odebrał 959 sygnałów
+Sender prawidłowo wysłał 959 sygnałów i otrzymał informację o 959
+Sender otrzymał 950 sygnałów a powinien otrzymać ich 1000
+Test dla polecenia SIGRT
+100 sygnałów
+26577
+Catcher odebrał 100 sygnałów
+Sender otrzymał 100 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+26583
+Catcher odebrał 1000 sygnałów
+Sender otrzymał 1000 sygnałów a powinien otrzymać ich 1000
+
+Komentarz:
+Dla sygnałów czasu rzeczywistego nie występuje gubienie procesów ponieważ są kolejkowane.

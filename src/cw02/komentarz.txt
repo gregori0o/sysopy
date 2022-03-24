@@ -1,0 +1,2 @@
+Czasy działania dla funkcji systemowych są dużo wolniejsze (nawet kilkuset krotnie) od czasu funkcji bibliotecznych.
+Wynika to z faktu, że w funkcjach systemowych czytamy litera po literze, natomiast wbudowanan czyta liniami do bufora i jest lepiej zoptymalizowana.

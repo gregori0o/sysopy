@@ -1,0 +1,11 @@
+skladnik1 = cat /etc/passwd
+skladnik2 = ls -al | wc -l
+skladnik3 = ls -a -l
+skladnik4 = wc -l
+skladnik5 = find . | wc -l 
+skladnik6 = cat /etc/passwd
+skladnik7 = ls -al | wc -l
+skladnik8 = ls -a -l
+skladnik9 = wc -l
+skladnik10 = find . | wc -l
+skladnik11 = ls -al /home/glegeza | grep a

@@ -1,0 +1,35 @@
+Test działania zadanie 1
+Test ignorowania sygnału
+Wysyłam sygnał SIGUSR1 w procesie macierzystym i czekam 10 sekund na reakcję
+Sygnał został zignorowany
+Wysyłam sygnał SIGUSR1 w procesie potomnym i czekam 10 sekund na reakcję
+Sygnał został zignorowany
+Wysyłam sygnał SIGUSR1 w procesie z exec i czekam 10 sekund na reakcję
+Sygnał został zignorowany
+Test obsługi sygnału przez handler
+Wysyłam sygnał SIGUSR1 w procesie macierzystym i czekam 10 sekund na reakcję
+Obsługa sygnału 10
+Nastąpiło wywołanie handlera
+Wysyłam sygnał SIGUSR1 w procesie potomnym i czekam 10 sekund na reakcję
+Obsługa sygnału 10
+Nastąpiło wywołanie handlera
+Test obsługi sygnału przez handler
+Wysyłam sygnał SIGUSR1 w procesie macierzystym i czekam 10 sekund na reakcję
+Obsługa sygnału 10
+Nastąpiło wywołanie handlera
+Test maskowania sygnału
+Wysyłam sygnał SIGUSR1 w procesie macierzystym i czekam 10 sekund na reakcję
+Sygnał blokowany przez maskę
+Wysyłam sygnał SIGUSR1 w procesie potomnym i czekam 10 sekund na reakcję
+Sygnał blokowany przez maskę
+Wysyłam sygnał SIGUSR1 w procesie z exec i czekam 10 sekund na reakcję
+Sygnał blokowany przez maskę
+Sprawdzanie czy sygnał wisi podczas maskowania
+Wysyłam sygnał SIGUSR1 w procesie macierzystym i czekam 10 sekund na reakcję
+Sygnał wiszący jest widoczny w procesie macierzystym
+Sygnał nie jest widoczny w procesie potomnym
+Sygnał wiszący jest widoczny w procesie wywołanym funkcją exec
+
+Komentarz:
+Proces potomny dziedziczy obsługę sygnałów oraz maskę, jednakże czyszczona jest lista sygnałów "wiszących".
+Wywołanie exec zachowuje obsługę sygnałów, maskę oraz widoczne są procesy "wiszące".

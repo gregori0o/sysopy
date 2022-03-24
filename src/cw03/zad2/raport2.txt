@@ -1,0 +1,157 @@
+Raport zadania 2
+Static library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 32
+Czas użytkownika: 18
+Czas systemowy:   13
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 11
+Czas użytkownika: 0
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 67
+Czas użytkownika: 32
+Czas systemowy:   35
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 20
+Czas użytkownika: 0
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 2
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 189
+Czas użytkownika: 102
+Czas systemowy:   85
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 47
+Czas użytkownika: 0
+Czas systemowy:   0
+Shared library
+Testy dla małej liczby par (4), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 30
+Czas użytkownika: 14
+Czas systemowy:   16
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 11
+Czas użytkownika: 0
+Czas systemowy:   0
+Testy dla średniej liczby par (9), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 67
+Czas użytkownika: 32
+Czas systemowy:   34
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 19
+Czas użytkownika: 0
+Czas systemowy:   0
+Testy dla dużej liczby par (25), najpierw krótkie (ok.100), później średnie (ok.10000) i na końcu długie (ok.1000000)
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 2
+Czas użytkownika: 1
+Czas systemowy:   0
+Zmergowanie plików w jednym procesie
+Czas rzeczywisty: 186
+Czas użytkownika: 91
+Czas systemowy:   94
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 0
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 1
+Czas użytkownika: 0
+Czas systemowy:   0
+Zmergowanie plików w wielu procesach
+Czas rzeczywisty: 48
+Czas użytkownika: 0
+Czas systemowy:   0
+
+
+Komentarz:
+Mergowanie w wielu procesach jest wiele razy szybsze (ok 3-4 razy). Wynika to z faktu, że procesor jest lepiej wykorzystywany, jednakże niesie problemy związane z programowaniem współbieżnym, przez co musiałem nieco zmienić kod biblioteki z ćwiczenia pierwszego. Ciekawą obserwacją jest zerowy czas użytkownika i systemowy dla mergowania w wielu procesach.

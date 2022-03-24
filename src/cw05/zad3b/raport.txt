@@ -1,0 +1,30 @@
+Test działania zadanie 3b
+Oczekujemy uzyskania pliku: 
+576456447564765548548769091063478651826308177548553428751867564816275487157645644756476554854876909106347865182
+JKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYHFTYIKGFCDKGHCTGFHYHJKFSGBLJKGVBELIGRFOYHIUEGKLYURFGUELGHBKAHJKGUJKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYKGJFTGYHFJYTFCYGHCRTYFDCRTYFCRTCXXJHGNFCVGFHCJ
+ghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblhdglshbcglhsigbdcyuhwhjgbfujgweyujrgfyuewgbrfyhukgbevwuykhrfgyukegwrfcyugweyukrgfcvkwyuegvffcuytrwegyuiktwfgkerkyutwgvyutkrgikvghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblhdglshbcglh
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[][][][][}{}{}{}[][][}{}{}{}[][][}{}{}{][][]{}{}{}[][][]{}{}{}{][][]{}{}{}{][][]{}{}[][][][][}{}{}{}[][
+00000000000000000000000000000000000000000000
+!@#$@!#$@!!!!!!@@@@@@$$$$$$$$$!@#@$@!#$@#@$!#@$#@#$@$##@#$@#$!@$#@$#!@$#@!#$@!!@#$@!#$@!!!!!!@@
+*******************************************************************************************
+Test działania potoku utworzonego w bashu
+Koniec działania programu, otrzymano plik: 
+576456447564765548548769091063478651826308177548553428751867564816275487157645644756476554
+JKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYHFTYIKGFCDKGHCTGFHYHJKFSGBLJKGVBELIGRFOYHIUEGKLYURFGUELGHBKAHJKGUJKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYKGJFTGYHFJYTFCYGHCRTYFDCRTYFCRTCXXJ
+ghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblhdglshbcglhsigbdcyuhwhjgbfujgweyujrgfyuewgbrfyhukgbevwuykhrfgyukegwrfcyugweyukrgfcvkwyuegvffcuytrwegyuiktwfgkerkyutwgvyutkrgikvghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblh
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[][][][][}{}{}{}[][][}{}{}{}[][][}{}{}{][][]{}{}{}[][][]{}{}{}{][][]{}{}{}{][][]{}{}[][][]
+000000000000000000000000000000
+!@#$@!#$@!!!!!!@@@@@@$$$$$$$$$!@#@$@!#$@#@$!#@$#@#$@$##@#$@#$!@$#@$#!@$#@!#$@!!@#$@!#$@!!!
+******************************************************************************************
+Test działania potoku utworzonego w pliku
+Koniec działania programu, otrzymano plik: 
+57645644756476554854876909106347865182630817754855342875186756481627548715764564475647655485487690910634786518
+JKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYHFTYIKGFCDKGHCTGFHYHJKFSGBLJKGVBELIGRFOYHIUEGKLYURFGUELGHBKAHJKGUJKGHFKHJFKLGHIYHGYUFVGJKHVGHKDFGHVJLHGUYKGJFTGYHFJYTFCYGHCRTYFDCRTYFCRTCXXJHGNFCVGFHC
+ghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblhdglshbcglhsigbdcyuhwhjgbfujgweyujrgfyuewgbrfyhukgbevwuykhrfgyukegwrfcyugweyukrgfcvkwyuegvffcuytrwegyuiktwfgkerkyutwgvyutkrgikvghjfcvghfdghfvctyjfvkutfgyujgvblhjgchjgblhdglshbcglh
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[][][][][}{}{}{}[][][}{}{}{}[][][}{}{}{][][]{}{}{}[][][]{}{}{}{][][]{}{}{}{][][]{}{}[][][][][}{}{}{}
+0000000000000000000000000000000000000000
+!@#$@!#$@!!!!!!@@@@@@$$$$$$$$$!@#@$@!#$@#@$!#@$#@#$@$##@#$@#$!@$#@$#!@$#@!#$@!!@#$@!#$@!!!
+******************************************************************************************

@@ -1,0 +1,34 @@
+Test działania zadanie 3b
+Sender po wysłaniu sygnału czeka na odpowiedź catchera
+Test dla polecenia KILL
+100 sygnałów
+25501
+Catcher odebrał 100 sygnałów
+Sender otrzymał 0 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+25507
+Catcher odebrał 1000 sygnałów
+Sender otrzymał 0 sygnałów a powinien otrzymać ich 1000
+Test dla polecenia SIGQUEUE
+100 sygnałów
+25515
+Catcher odebrał 100 sygnałów
+Sender prawidłowo wysłał 100 sygnałów i otrzymał informację o 100
+Sender otrzymał 80 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+25521
+Catcher odebrał 1000 sygnałów
+Sender prawidłowo wysłał 1000 sygnałów i otrzymał informację o 1000
+Sender otrzymał 836 sygnałów a powinien otrzymać ich 1000
+Test dla polecenia SIGRT
+100 sygnałów
+25529
+Catcher odebrał 100 sygnałów
+Sender otrzymał 29 sygnałów a powinien otrzymać ich 100
+1000 sygnałów
+25535
+Catcher odebrał 1000 sygnałów
+Sender otrzymał 267 sygnałów a powinien otrzymać ich 1000
+
+Komentarz:
+Używam sigprocmask, aby nie nastąpiło zakleszczenie, jednakże przez to mniej sygnałów sender odbiera od catchera.
